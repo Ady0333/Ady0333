@@ -1,23 +1,36 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="center">Aditya Shinde</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=22&
-    duration=2600&
-    pause=900&
-    color=E5E5E5&
+    font=JetBrains+Mono&
+    size=18&
+    duration=2000&
+    pause=1000&
+    color=E5E7EB&
     center=true&
     vCenter=true&
-    width=700&
-    lines=Open+Source+Contributor;
-           Cloud+Native+%7C+Kubernetes+Focused;
-           CNCF+Ecosystem+Explorer;
-           Systems+over+Scripts" />
+    width=600&
+    lines=go+%C2%B7+kubernetes+%C2%B7+policy+engines+%C2%B7+observability" />
+</p>
+
+
+<p align="center">
+  <sub>go · kubernetes · policy engines · observability</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ady0333&color=grey&style=flat-square" />
+  <code>☸️ kubernetes</code> · 
+  <code>fabric</code> · 
+  <code>jaegry</code> · 
+  <code>keploy</code> · 
+  <code>karmada</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OSS-Contributor-111827?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-76%2B-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-CNCF_Ecosystem-111827?style=flat&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Primary-Go-111827?style=flat&logo=go" />
 </p>
 
 ---
