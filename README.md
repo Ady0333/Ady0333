@@ -381,38 +381,158 @@ graph TD
 </tr>
 </table>
 
-<!-- POWER METER -->
+<!-- POWER METER - VERSION 1: Progress Bars -->
 <h3>⚡ CURRENT POWER LEVELS</h3>
 
 <table>
 <tr>
-<td width="30%"><b>Kubernetes Mastery</b></td>
+<td width="30%"><b>🎯 Kubernetes Mastery</b></td>
 <td width="70%">
-<img src="https://progress-bar.dev/85/?scale=100&title=&width=400&color=326CE5&suffix=%"/>
+<img src="https://progress-bar.dev/85?width=400&color=326CE5" alt="85%"/>
 </td>
 </tr>
 <tr>
-<td width="30%"><b>Go Programming</b></td>
+<td width="30%"><b>🔵 Go Programming</b></td>
 <td width="70%">
-<img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=00ADD8&suffix=%"/>
+<img src="https://progress-bar.dev/80?width=400&color=00ADD8" alt="80%"/>
 </td>
 </tr>
 <tr>
-<td width="30%"><b>Cloud Native Stack</b></td>
+<td width="30%"><b>☁️ Cloud Native Stack</b></td>
 <td width="70%">
-<img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=FF0080&suffix=%"/>
+<img src="https://progress-bar.dev/75?width=400&color=FF0080" alt="75%"/>
 </td>
 </tr>
 <tr>
-<td width="30%"><b>OSS Contribution</b></td>
+<td width="30%"><b>💀 OSS Contribution</b></td>
 <td width="70%">
-<img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=8B5CF6&suffix=%"/>
+<img src="https://progress-bar.dev/90?width=400&color=8B5CF6" alt="90%"/>
 </td>
 </tr>
 <tr>
-<td width="30%"><b>DevOps Mastery</b></td>
+<td width="30%"><b>⚡ DevOps Mastery</b></td>
 <td width="70%">
-<img src="https://progress-bar.dev/78/?scale=100&title=&width=400&color=06B6D4&suffix=%"/>
+<img src="https://progress-bar.dev/78?width=400&color=06B6D4" alt="78%"/>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- POWER METER - VERSION 2: Emoji Bars (Always Works!) -->
+<h3>⚡ CURRENT POWER LEVELS</h3>
+
+| 💪 SKILL | 📊 LEVEL | 🔥 MASTERY |
+|----------|----------|------------|
+| **Kubernetes Mastery** | ![](https://img.shields.io/badge/Level-85%25-326CE5?style=flat-square) | `█████████████████░░░` 85% |
+| **Go Programming** | ![](https://img.shields.io/badge/Level-80%25-00ADD8?style=flat-square) | `████████████████░░░░` 80% |
+| **Cloud Native Stack** | ![](https://img.shields.io/badge/Level-75%25-FF0080?style=flat-square) | `███████████████░░░░░` 75% |
+| **OSS Contribution** | ![](https://img.shields.io/badge/Level-90%25-8B5CF6?style=flat-square) | `██████████████████░░` 90% |
+| **DevOps Mastery** | ![](https://img.shields.io/badge/Level-78%25-06B6D4?style=flat-square) | `███████████████░░░░░` 78% |
+
+---
+
+<!-- POWER METER - VERSION 3: Badge Style (Most Reliable) -->
+<h3>⚡ CURRENT POWER LEVELS</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Kubernetes_Mastery-85%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Go_Programming-80%25-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Cloud_Native_Stack-75%25-FF0080?style=for-the-badge&logo=cncf&logoColor=white&labelColor=000000"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/OSS_Contribution-90%25-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/DevOps_Mastery-78%25-06B6D4?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=000000"/>
+</p>
+
+---
+
+<!-- POWER METER - VERSION 4: Gradient Bars (COOLEST!) -->
+<h3>⚡ CURRENT POWER LEVELS</h3>
+
+```
+Kubernetes Mastery    [████████████████████░░░░░] 85%
+Go Programming        [████████████████████░░░░░] 80%
+Cloud Native Stack    [███████████████████░░░░░░] 75%
+OSS Contribution      [█████████████████████░░░░] 90%
+DevOps Mastery        [████████████████████░░░░░] 78%
+```
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/K8S-85%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+<sub>Kubernetes</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/GO-80%25-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br/>
+<sub>Programming</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/CNCF-75%25-FF0080?style=for-the-badge&logo=cncf&logoColor=white"/><br/>
+<sub>Cloud Native</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/OSS-90%25-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<sub>Contribution</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/OPS-78%25-06B6D4?style=for-the-badge&logo=azuredevops&logoColor=white"/><br/>
+<sub>DevOps</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- POWER METER - VERSION 5: Skill Cards (MOST UNIQUE!) -->
+<h3>⚡ CURRENT POWER LEVELS</h3>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎯_KUBERNETES-LEVEL_85-326CE5?style=for-the-badge&labelColor=000000"/><br/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br/>
+<sub>█████████████████░░░ <b>85%</b></sub><br/>
+<sub>Expert Level</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔵_GOLANG-LEVEL_80-00ADD8?style=for-the-badge&labelColor=000000"/><br/>
+<img src="https://skillicons.dev/icons?i=go" width="50"/><br/>
+<sub>████████████████░░░░ <b>80%</b></sub><br/>
+<sub>Advanced</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☁️_CLOUD_NATIVE-LEVEL_75-FF0080?style=for-the-badge&labelColor=000000"/><br/>
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br/>
+<sub>███████████████░░░░░ <b>75%</b></sub><br/>
+<sub>Proficient</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💀_OSS-LEVEL_90-8B5CF6?style=for-the-badge&labelColor=000000"/><br/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+<sub>██████████████████░░ <b>90%</b></sub><br/>
+<sub>Elite Contributor</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡_DEVOPS-LEVEL_78-06B6D4?style=for-the-badge&labelColor=000000"/><br/>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>
+<sub>███████████████░░░░░ <b>78%</b></sub><br/>
+<sub>Advanced</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔥_OVERALL-LEVEL_82-FFD700?style=for-the-badge&labelColor=000000"/><br/>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="50"/><br/>
+<sub>████████████████░░░░ <b>82%</b></sub><br/>
+<sub>Master Tier</sub>
 </td>
 </tr>
 </table>
