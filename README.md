@@ -230,6 +230,27 @@ func main() {
 
 🎯 CURRENT OPERATIONS & FUTURE TARGETS
 <div align="center">
+<!-- BIG BOLD HEADING -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&repeat=true&width=1000&lines=🎯+CURRENT+OPERATIONS+%26+TARGETS+🎯;⚡+MISSION+CONTROL+CENTER+⚡;🔥+TACTICAL+OBJECTIVES+ACTIVE+🔥" alt="Operations Header" />
+</h1>
+<!-- EXCITING ANIMATED GIF - CODE/HACKING THEME -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+<!-- MULTI-LINE ANIMATED MISSIONS -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=🚀+MISSION+1%3A+DEEPENING+KUBERNETES+INTERNALS;🎯+MISSION+2%3A+CNCF+%26+LFX+MENTORSHIP+PROGRAMS;💀+MISSION+3%3A+CONTRIBUTING+TO+POLICY+ENGINES;🔥+MISSION+4%3A+BUILDING+CLOUD+NATIVE+TOOLS;⚡+MISSION+5%3A+BECOMING+A+PROJECT+MAINTAINER" alt="Current Missions" /></a>
+<!-- FOCUS AREAS -->
+<p>
+  <img src="https://img.shields.io/badge/🎯_FOCUS-KUBERNETES_INTERNALS-FF0080?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🔥_LEARNING-EBPF_&_CILIUM-8B5CF6?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/⚡_BUILDING-OBSERVABILITY_TOOLS-06B6D4?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/💀_EXPLORING-CHAOS_ENGINEERING-EC4899?style=for-the-badge&labelColor=1a1b27"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- GOALS TABLE -->
+<table>
+<tr>
+<td align="center" width="50%">🎯 CURRENT OPERATIONS & FUTURE TARGETS
+<div align="center">
 <!-- ANIMATED HACKER GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 <!-- MULTI-LINE ANIMATED MISSIONS -->
