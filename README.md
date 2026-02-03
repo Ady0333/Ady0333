@@ -232,38 +232,207 @@ func main() {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="400"/>
+<!-- ANIMATED HACKER GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=🚀+MISSION+1%3A+DEEPENING+KUBERNETES+INTERNALS;🎯+MISSION+2%3A+CNCF+%26+LFX+MENTORSHIP+PROGRAMS;💀+MISSION+3%3A+CONTRIBUTING+TO+POLICY+ENGINES;🔥+MISSION+4%3A+BUILDING+CLOUD+NATIVE+TOOLS;⚡+MISSION+5%3A+BECOMING+A+PROJECT+MAINTAINER" alt="Current Missions" /></a>
-
-<!-- FOCUS AREAS -->
-<p>
-  <img src="https://img.shields.io/badge/🎯_FOCUS-KUBERNETES_INTERNALS-FF0080?style=for-the-badge&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/🔥_LEARNING-EBPF_&_CILIUM-8B5CF6?style=for-the-badge&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/⚡_BUILDING-OBSERVABILITY_TOOLS-06B6D4?style=for-the-badge&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/💀_EXPLORING-CHAOS_ENGINEERING-EC4899?style=for-the-badge&labelColor=1a1b27"/>
-</p>
-
-<!-- GOALS -->
+<!-- MULTI-LINE ANIMATED MISSIONS WITH DIFFERENT COLORS -->
 <table>
 <tr>
-<td align="center" width="50%">
-<sub>🏆 <b>SHORT TERM OBJECTIVES</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/✅_LFX_MENTORSHIP-IN_PROGRESS-8B5CF6?style=flat"/><br/>
-<img src="https://img.shields.io/badge/✅_100%2B_OSS_CONTRIBUTIONS-ACTIVE-06B6D4?style=flat"/><br/>
-<img src="https://img.shields.io/badge/✅_KEPLOY_MAINTAINER-GOAL-FF0080?style=flat"/><br/>
-<img src="https://img.shields.io/badge/✅_CNCF_DEEP_DIVE-ONGOING-EC4899?style=flat"/>
+<td align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&repeat=true&width=450&lines=🚀+MISSION+ALPHA;KUBERNETES+INTERNALS;STATUS%3A+IN+PROGRESS" alt="Mission 1" /></a>
 </td>
-<td align="center" width="50%">
-<sub>🚀 <b>LONG TERM VISION</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/🎯_GSOC_2026-TARGET-FF0080?style=flat"/><br/>
-<img src="https://img.shields.io/badge/🎯_PROJECT_MAINTAINER-AMBITION-8B5CF6?style=flat"/><br/>
-<img src="https://img.shields.io/badge/🎯_CLOUD_ARCHITECT-VISION-06B6D4?style=flat"/><br/>
-<img src="https://img.shields.io/badge/🎯_IMPACTFUL_OSS_LEADER-MISSION-EC4899?style=flat"/>
+<td align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=450&lines=🎯+MISSION+BRAVO;CNCF+MENTORSHIP;STATUS%3A+ACTIVE" alt="Mission 2" /></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&repeat=true&width=450&lines=💀+MISSION+CHARLIE;POLICY+ENGINES;STATUS%3A+EXECUTING" alt="Mission 3" /></a>
+</td>
+<td align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&repeat=true&width=450&lines=🔥+MISSION+DELTA;CLOUD+NATIVE+TOOLS;STATUS%3A+BUILDING" alt="Mission 4" /></a>
 </td>
 </tr>
 </table>
 
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- CURRENT FOCUS WITH NEON BADGES -->
+<h3>⚡ ACTIVE BATTLEFIELD ZONES ⚡</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/🎯_PRIMARY_TARGET-KUBERNETES_INTERNALS-FF0080?style=for-the-badge&labelColor=000000&logo=kubernetes&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🔥_SECONDARY_OBJECTIVE-EBPF_&_CILIUM_MASTERY-8B5CF6?style=for-the-badge&labelColor=000000&logo=cilium&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/⚡_OPERATION_ALPHA-OBSERVABILITY_FRAMEWORK-06B6D4?style=for-the-badge&labelColor=000000&logo=prometheus&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/💀_BLACK_OPS-CHAOS_ENGINEERING_LABS-EC4899?style=for-the-badge&labelColor=000000&logo=grafana&logoColor=white"/>
+</p>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GOALS IN STYLED CARDS -->
+<h3>📋 MISSION CONTROL CENTER</h3>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏆 SHORT TERM OBJECTIVES
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEPLOYMENT-00FF00?style=for-the-badge&labelColor=000000"/>
+
+```diff
++ ✅ LFX MENTORSHIP → IN PROGRESS
++ ✅ 100+ OSS CONTRIBUTIONS → ACTIVE  
++ ✅ KEPLOY MAINTAINER → TARGETING
++ ✅ CNCF DEEP DIVE → ONGOING
+```
+
+<img src="https://progress-bar.dev/75/?scale=100&title=PROGRESS&width=300&color=FF0080&suffix=%"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 LONG TERM VISION
+
+<img src="https://img.shields.io/badge/STATUS-LOCKED_AND_LOADED-8B5CF6?style=for-the-badge&labelColor=000000"/>
+
+```diff
+! 🎯 GSOC 2026 → TARGET ACQUIRED
+! 🎯 PROJECT MAINTAINER → AMBITION
+! 🎯 CLOUD ARCHITECT → VISION  
+! 🎯 IMPACTFUL OSS LEADER → MISSION
+```
+
+<img src="https://progress-bar.dev/60/?scale=100&title=PROGRESS&width=300&color=8B5CF6&suffix=%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- SKILL TREE VISUALIZATION -->
+<details>
+<summary><b>🗺️ SKILL TREE & UPGRADE PATH (Click to Expand)</b></summary>
+<br/>
+
+```mermaid
+graph TD
+    A[🎯 CURRENT LEVEL] --> B[Kubernetes Expert]
+    A --> C[Go Developer]
+    A --> D[OSS Contributor]
+    
+    B --> E[⚡ NEXT LEVEL]
+    C --> E
+    D --> E
+    
+    E --> F[CNCF Maintainer]
+    E --> G[Cloud Architect]
+    E --> H[DevOps Leader]
+    
+    F --> I[🏆 FINAL BOSS]
+    G --> I
+    H --> I
+    
+    I[Industry Influencer]
+    
+    style A fill:#FF0080,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#8B5CF6,stroke:#fff,stroke-width:2px,color:#fff
+    style I fill:#06B6D4,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+</details>
+
+<!-- ROADMAP TIMELINE -->
+<h3>🛣️ TACTICAL ROADMAP 2026</h3>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Q1_2026-FOUNDATION-FF0080?style=for-the-badge&labelColor=000000"/><br/>
+<sub>📚 Deep Learning Phase</sub><br/>
+<sub>Kubernetes CKA/CKAD</sub><br/>
+<sub>Advanced Go Patterns</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Q2_2026-EXECUTION-8B5CF6?style=for-the-badge&labelColor=000000"/><br/>
+<sub>🚀 Active Contribution</sub><br/>
+<sub>LFX Mentorship</sub><br/>
+<sub>Major PR Milestones</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Q3_2026-ACCELERATION-06B6D4?style=for-the-badge&labelColor=000000"/><br/>
+<sub>⚡ Leadership Roles</sub><br/>
+<sub>GSoC Participation</sub><br/>
+<sub>Conference Talks</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Q4_2026-DOMINATION-00FF00?style=for-the-badge&labelColor=000000"/><br/>
+<sub>👑 Maintainer Status</sub><br/>
+<sub>Open Source Impact</sub><br/>
+<sub>Community Building</sub>
+</td>
+</tr>
+</table>
+
+<!-- POWER METER -->
+<h3>⚡ CURRENT POWER LEVELS</h3>
+
+<table>
+<tr>
+<td width="30%"><b>Kubernetes Mastery</b></td>
+<td width="70%">
+<img src="https://progress-bar.dev/85/?scale=100&title=&width=400&color=326CE5&suffix=%"/>
+</td>
+</tr>
+<tr>
+<td width="30%"><b>Go Programming</b></td>
+<td width="70%">
+<img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=00ADD8&suffix=%"/>
+</td>
+</tr>
+<tr>
+<td width="30%"><b>Cloud Native Stack</b></td>
+<td width="70%">
+<img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=FF0080&suffix=%"/>
+</td>
+</tr>
+<tr>
+<td width="30%"><b>OSS Contribution</b></td>
+<td width="70%">
+<img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=8B5CF6&suffix=%"/>
+</td>
+</tr>
+<tr>
+<td width="30%"><b>DevOps Mastery</b></td>
+<td width="70%">
+<img src="https://progress-bar.dev/78/?scale=100&title=&width=400&color=06B6D4&suffix=%"/>
+</td>
+</tr>
+</table>
+
+<!-- ACHIEVEMENT UNLOCKS -->
+<h3>🏅 RECENT ACHIEVEMENTS UNLOCKED</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-76%2B_PR_MERGED-FFD700?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-5%2B_ORGS_JOINED-FFD700?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-HYPERLEDGER_CONTRIBUTOR-FFD700?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🏆_ACHIEVEMENT-KEPLOY_WARRIOR-FFD700?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<!-- MOTIVATIONAL QUOTE -->
+<h3>💭 CURRENT MINDSET</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22;-+Aditya+Shinde%2C+on+contributing+to+open+source;%22Every+commit+is+a+step+towards+building+the+future.%22" alt="Mindset" /></a>
+
+<!-- END SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
