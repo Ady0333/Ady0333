@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=300&section=header&text=ADITYA%20SHINDE&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20Cloud%20Native%20Developer%20|%20Kubernetes%20Warrior%20|%20OSS%20Contributor%20⚡&descAlignY=55&descSize=25" width="100%"/>
 
 <!-- GLITCH TEXT ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FF0080&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=🔥+WELCOME+TO+MY+DIGITAL+FORTRESS+🔥;💀+BREAKING+SYSTEMS+%26+BUILDING+SOLUTIONS+💀;⚡+KUBERNETES+NINJA+|+OPEN+SOURCE+WARRIOR+⚡;🚀+CLOUD+NATIVE+ARCHITECT+%26+CNCF+ENTHUSIAST+🚀;🎯+CONTRIBUTING+TO+THE+FUTURE+OF+DEVOPS+🎯" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FF0080&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=🔥+WELCOME+TO+MY+DIGITAL+FORTRESS+🔥;💀+BREAKING+SYSTEMS+%26+BUILDING+SOLUTIONS+💀;⚡+KUBERNETES+NINJA+|+OPEN+SOURCE+WARRIOR+⚡;🚀+CLOUD+NATIVE+ARCHITECT+%26+CNCF+ENTHUSIAST+🚀;🎯+CONTRIBUTING+TO+THE+FUTURE+OF+DEVOPS+🎯" alt="Typing SVG" /></a>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- ANIMATED GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE4MzBsMnZ0aTdqcWN6NmNqNWd3ODhxeGZvdnNxb3Q3ODN3ZzI5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
 
 <!-- BANNER BADGES -->
 <p align="center">
@@ -38,7 +38,7 @@
 <div align="center">
 
 <!-- MATRIX RAIN EFFECT STYLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=++++++++++%3E%3E%3E+SYSTEM+INITIALIZATION...;++++++++++%3E%3E%3E+LOADING+IDENTITY_MATRIX...;++++++++++%3E%3E%3E+ADITYA.EXE+SUCCESSFULLY+LOADED;++++++++++%3E%3E%3E+PERMISSION%3A+ROOT+ACCESS+GRANTED" alt="Matrix Loading" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=++++++++++%3E%3E%3E+SYSTEM+INITIALIZATION...;++++++++++%3E%3E%3E+LOADING+IDENTITY_MATRIX...;++++++++++%3E%3E%3E+ADITYA.EXE+SUCCESSFULLY+LOADED;++++++++++%3E%3E%3E+PERMISSION%3A+ROOT+ACCESS+GRANTED" alt="Matrix Loading" /></a>
 
 </div>
 
@@ -109,7 +109,7 @@ func main() {
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 
 <!-- ANIMATED TECH STACK -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=300&color=FF0080&center=true&vCenter=true&repeat=true&width=800&lines=PRIMARY+WEAPONS%3A+Go+|+Kubernetes+|+Docker;SECONDARY+LOADOUT%3A+TypeScript+|+Python+|+Bash;BATTLE+PLATFORMS%3A+AWS+|+GCP+|+Azure;MONITORING+ARSENAL%3A+Prometheus+|+Grafana+|+Jaeger;POLICY+ENGINES%3A+Kyverno+|+OPA+|+Karmada;SECRET+WEAPONS%3A+Hyperledger+|+Keploy+|+Fabric" alt="Tech Stack Animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=300&color=FF0080&center=true&vCenter=true&repeat=true&width=800&lines=PRIMARY+WEAPONS%3A+Go+|+Kubernetes+|+Docker;SECONDARY+LOADOUT%3A+TypeScript+|+Python+|+Bash;BATTLE+PLATFORMS%3A+AWS+|+GCP+|+Azure;MONITORING+ARSENAL%3A+Prometheus+|+Grafana+|+Jaeger;POLICY+ENGINES%3A+Kyverno+|+OPA+|+Karmada;SECRET+WEAPONS%3A+Hyperledger+|+Keploy+|+Fabric" alt="Tech Stack Animation" /></a>
 
 <!-- SKILL ICONS WITH GLOW -->
 <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,linux,bash,ts,python,git,postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark&perline=8" />
@@ -137,7 +137,7 @@ func main() {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&repeat=true&width=1000&lines=⚡+76%2B+PULL+REQUESTS+MERGED+INTO+PRODUCTION+⚡;🎯+CONTRIBUTING+TO+CRITICAL+CNCF+INFRASTRUCTURE+🎯;💀+HYPERLEDGER+|+KEPLOY+|+RUXAILAB+WARRIOR+💀;🔥+BUILDING+TOOLS+THAT+POWER+THE+CLOUD+🔥" alt="Contributions" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&repeat=true&width=1000&lines=⚡+76%2B+PULL+REQUESTS+MERGED+INTO+PRODUCTION+⚡;🎯+CONTRIBUTING+TO+CRITICAL+CNCF+INFRASTRUCTURE+🎯;💀+HYPERLEDGER+|+KEPLOY+|+RUXAILAB+WARRIOR+💀;🔥+BUILDING+TOOLS+THAT+POWER+THE+CLOUD+🔥" alt="Contributions" /></a>
 
 <!-- MAJOR CONTRIBUTIONS -->
 <table>
@@ -234,7 +234,7 @@ func main() {
 
 <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="400"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=🚀+MISSION+1%3A+DEEPENING+KUBERNETES+INTERNALS;🎯+MISSION+2%3A+CNCF+%26+LFX+MENTORSHIP+PROGRAMS;💀+MISSION+3%3A+CONTRIBUTING+TO+POLICY+ENGINES;🔥+MISSION+4%3A+BUILDING+CLOUD+NATIVE+TOOLS;⚡+MISSION+5%3A+BECOMING+A+PROJECT+MAINTAINER" alt="Current Missions" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=🚀+MISSION+1%3A+DEEPENING+KUBERNETES+INTERNALS;🎯+MISSION+2%3A+CNCF+%26+LFX+MENTORSHIP+PROGRAMS;💀+MISSION+3%3A+CONTRIBUTING+TO+POLICY+ENGINES;🔥+MISSION+4%3A+BUILDING+CLOUD+NATIVE+TOOLS;⚡+MISSION+5%3A+BECOMING+A+PROJECT+MAINTAINER" alt="Current Missions" /></a>
 
 <!-- FOCUS AREAS -->
 <p>
@@ -302,7 +302,7 @@ func main() {
 
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=300&color=FF0080&center=true&vCenter=true&repeat=true&width=900&lines=📡+ALL+COMMUNICATION+CHANNELS+ACTIVE+📡;🤝+OPEN+TO+COLLABORATIONS+%26+ALLIANCES+🤝;💀+LET'S+BUILD+SOMETHING+LEGENDARY+💀;⚡+ALWAYS+READY+FOR+THE+NEXT+CHALLENGE+⚡" alt="Connect Animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=300&color=FF0080&center=true&vCenter=true&repeat=true&width=900&lines=📡+ALL+COMMUNICATION+CHANNELS+ACTIVE+📡;🤝+OPEN+TO+COLLABORATIONS+%26+ALLIANCES+🤝;💀+LET'S+BUILD+SOMETHING+LEGENDARY+💀;⚡+ALWAYS+READY+FOR+THE+NEXT+CHALLENGE+⚡" alt="Connect Animation" /></a>
 
 <!-- CONTACT LINKS -->
 <p>
@@ -327,9 +327,6 @@ func main() {
   <img src="https://img.shields.io/badge/💀_COLLABORATION_MODE-AGGRESSIVE-8B5CF6?style=for-the-badge&labelColor=1a1b27"/>
 </p>
 
-<!-- VISITOR MAP -->
-<img src="https://github.com/Ady0333/Ady0333/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
@@ -340,7 +337,7 @@ func main() {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=💀+REMEMBER%3A+CODE+IS+POETRY+IN+PRODUCTION+💀;🔥+EVERY+COMMIT+IS+A+STEP+TOWARDS+GREATNESS+🔥;⚡+BUILD+TOOLS+THAT+OUTLIVE+YOU+⚡;🎯+OPEN+SOURCE+ISN'T+A+HOBBY+-+IT'S+A+LIFESTYLE+🎯;🚀+THE+FUTURE+IS+CLOUD+NATIVE+-+LET'S+BUILD+IT+🚀" alt="Final Words" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=💀+REMEMBER%3A+CODE+IS+POETRY+IN+PRODUCTION+💀;🔥+EVERY+COMMIT+IS+A+STEP+TOWARDS+GREATNESS+🔥;⚡+BUILD+TOOLS+THAT+OUTLIVE+YOU+⚡;🎯+OPEN+SOURCE+ISN'T+A+HOBBY+-+IT'S+A+LIFESTYLE+🎯;🚀+THE+FUTURE+IS+CLOUD+NATIVE+-+LET'S+BUILD+IT+🚀" alt="Final Words" /></a>
 
 <!-- FOOTER BADGES -->
 <p>
@@ -354,7 +351,7 @@ func main() {
 
 <!-- EPIC FOOTER STATEMENT -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=2000&pause=5000&color=FF0080&center=true&vCenter=true&repeat=true&width=800&lines=⚔️+IF+YOU+MADE+IT+THIS+FAR%2C+YOU'RE+WORTHY+⚔️;🌟+STAR+A+REPO+IF+YOU+BELIEVE+IN+OSS+MAGIC+🌟;💀+LET'S+CONNECT+AND+BUILD+THE+IMPOSSIBLE+💀" alt="Footer" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=2000&pause=5000&color=FF0080&center=true&vCenter=true&repeat=true&width=800&lines=⚔️+IF+YOU+MADE+IT+THIS+FAR%2C+YOU'RE+WORTHY+⚔️;🌟+STAR+A+REPO+IF+YOU+BELIEVE+IN+OSS+MAGIC+🌟;💀+LET'S+CONNECT+AND+BUILD+THE+IMPOSSIBLE+💀" alt="Footer" /></a>
 </h3>
 
 <p>
