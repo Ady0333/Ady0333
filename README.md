@@ -295,7 +295,7 @@ func main() {
 + ✅ CNCF DEEP DIVE → ONGOING
 ```
 
-<img src="https://progress-bar.dev/75/?scale=100&title=PROGRESS&width=300&color=FF0080&suffix=%"/>
+<!-- <img src="https://progress-bar.dev/75/?scale=100&title=PROGRESS&width=300&color=FF0080&suffix=%"/> -->
 
 </td>
 <td align="center" width="50%">
@@ -311,7 +311,7 @@ func main() {
 ! 🎯 IMPACTFUL OSS LEADER → MISSION
 ```
 
-<img src="https://progress-bar.dev/60/?scale=100&title=PROGRESS&width=300&color=8B5CF6&suffix=%"/>
+<!-- <img src="https://progress-bar.dev/60/?scale=100&title=PROGRESS&width=300&color=8B5CF6&suffix=%"/> -->
 
 </td>
 </tr>
