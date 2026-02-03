@@ -45,16 +45,50 @@
 
 ## 🛠 Tech Stack (Derived from Real Work)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,bash,linux,docker,kubernetes,git,github,yaml" />
+<h2 align="left">⟨/⟩ Tech Stack</h2>
+
+<p style="color:#9ca3af; margin-bottom:12px;">
+Engineering-focused tools I actively use in production-grade open source systems.
 </p>
 
-### Focus Areas
-- ☸️ Kubernetes primitives & workflows
-- 📦 Containerized applications & infra tooling
-- 🔍 Reading and debugging large OSS codebases
-- 🧪 Testing, automation & reliability
-- 🔗 Distributed systems fundamentals
+<!-- Skill Level Pills -->
+<p>
+  <img src="https://img.shields.io/badge/Go-Expert-1f2937?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Advanced-1f2937?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Proficient-1f2937?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- Icon Grid -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,python,linux,bash,docker,kubernetes,git,postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&perline=8" />
+</p>
+
+<br/>
+
+<!-- Focus Cards -->
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Go</b><br/>
+      <sub>Controllers • Webhooks • Concurrency</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Kubernetes</b><br/>
+      <sub>Admission Control • Policies • CRDs</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Docker</b><br/>
+      <sub>Containerization • Build Optimization</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Observability</b><br/>
+      <sub>Prometheus • Grafana • Metrics</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
