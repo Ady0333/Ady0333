@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=300&section=header&text=ADITYA%20SHINDE&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=⚡%20Cloud%20Native%20Developer%20|%20Kubernetes%20Warrior%20|%20OSS%20Contributor%20⚡&descAlignY=55&descSize=25" width="100%"/>
 
 <!-- GLITCH TEXT ANIMATION - FIXED -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FF0080&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=🔥+WELCOME+TO+MY+DIGITAL+FORTRESS+🔥;💀+BREAKING+SYSTEMS+%26+BUILDING+SOLUTIONS+💀;⚡+KUBERNETES+NINJA+|+OPEN+SOURCE+WARRIOR+⚡;🚀+CLOUD+NATIVE+ARCHITECT+%26+CNCF+ENTHUSIAST+🚀;🎯+CONTRIBUTING+TO+THE+FUTURE+OF+DEVOPS+🎯" alt="Typing SVG" />
-</a>
+</a> -->
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
